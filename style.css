@@ -1,0 +1,77 @@
+body { 
+    background-color: aqua;
+}
+        header{
+            background-color: rgb(46, 165, 42);
+        } 
+        p{ 
+            background-color: chartreuse;
+        }
+        h1{ 
+            background-color: rgb(221, 224, 14);
+        } 
+        h3{
+            background-color: chocolate;
+        } 
+        h2{
+            background-color: blue;
+        }
+
+#conteudo-um{
+    padding: 20px;
+    margin: 5px 20px 5px;
+    border: 5px solid black;
+} 
+
+#conteudo-dois{
+    padding: 2px;
+    margin: 5px;
+    border: 5px soid black;
+} 
+
+h1{
+        background-color: rgb(228, 143, 15);
+        padding: 2px; 
+        margin: 80px;
+        font-size: 50px;
+        text-align: center;
+    }
+
+
+h2{ 
+        background-color: brown;
+        padding: 10px;
+        margin: 5px;
+        font-size: 50px;
+        text-align: center;
+} 
+
+p{ 
+        background-color: cornsilk;
+        padding: 10px;
+        margin: 20px;
+        font-size: 30px;
+}   
+
+div{
+        display: flex;
+        justify-content: center;
+}
+    
+
+ul{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    text-align: center;
+    list-style-type: none;
+    margin-left: auto;
+    margin-right: auto;
+} 
+
+li {
+    background-color: 1px solid green;
+}
+
+
+
+
